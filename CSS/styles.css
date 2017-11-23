@@ -1,0 +1,64 @@
+* {
+	font-family: 'Open Sans Condensed', sans-serif;
+	/*font-size: 20px;*/
+	color: #000;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.is-fixed-to-top {
+	height: 40px;
+	width: 100%;
+	font-weight: bolder;
+}
+
+.navItems {
+	padding: 12px 10px;
+}
+
+.select {
+	font-size: 12px;
+}
+
+.flags {
+	width: 40px;
+	height: 25px;
+	margin: 4px 5px;
+}
+
+.career {
+	opacity: 0.7;
+	height: 500px;
+}
+
+.students {
+	margin: 20px;
+}
+
+button {
+	font-family: 'Open Sans Condensed', sans-serif;
+	border-style: solid;
+	border-color: white;
+	background-color: white;	
+	margin-top: -228px;
+	margin-left: 680px;
+}
+
+button:hover {
+	opacity: 1;
+
+}
+
+.footer {
+	background-color: #00509E;
+	color: white;
+	padding: 0px;
+}
+
+footer .fa {
+	color: white;
+	padding: 10px;
+}
